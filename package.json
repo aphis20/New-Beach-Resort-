@@ -14,9 +14,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "devDependencies": {
-    "cross-env": "^7.0.3"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -42,6 +39,6 @@
     ]
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": "16.x"
   }
 }
